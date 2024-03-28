@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/AbhiRawool911/Portfolio/assets/157002044/f6ca6895-5f7c-4c40-9825-15d41f5060a2)
-
 <h1 align="center">Hi 👋, I'm Abhishek Rawool</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
@@ -10,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://abhishek-rawool.netlify.app/](https://abhishek-rawool.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abhishek-rawool.netlify.app/)
 
 - 📫 How to reach me **abhirawool7022@gmail.com**
 
