@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/AbhiRawool911/Portfolio/assets/157002044/f6ca6895-5f7c-4c40-9825-15d41f5060a2)
+
 <h1 align="center">Hi 👋, I'm Abhishek Rawool</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
@@ -37,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="44" height="39">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
@@ -49,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Material-UI" width="40" height="40">
+    <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Material-UI" width="35" height="38">
   </a>
 </p>
 
