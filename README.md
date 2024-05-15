@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React.js project**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abhishek-rawool.netlify.app/)
 
