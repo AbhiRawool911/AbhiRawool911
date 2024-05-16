@@ -73,7 +73,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/abhi91130" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1711484209~exp=1711487809~hmac=894356a12cc88d073c672b2d7bcac22a0bb59d5e05bee97d5a24eb2556f07a97&w=740" alt="abhi91130" height="37.5" width="37.5" /></a>&nbsp;
-<a href="https://linkedin.com/in/abhishek-rawool" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="abhishek-rawool" height="60" width="60" /></a>&nbsp;
-<a href="https://instagram.com/abhi.rawool_xi._" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" alt="abhi.rawool_xi._" height="38" width="38" /></a>&nbsp;
+<a href="https://twitter.com/abhi91130" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1711484209~exp=1711487809~hmac=894356a12cc88d073c672b2d7bcac22a0bb59d5e05bee97d5a24eb2556f07a97&w=740" alt="abhi91130" height="37.5" width="37.5" /></a>&nbsp;
+<a href="https://linkedin.com/in/abhishek-rawool" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="abhishek-rawool" height="60" width="60" /></a>&nbsp;
+<a href="https://instagram.com/abhi.rawool_xi._" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" alt="abhi.rawool_xi._" height="38" width="38" /></a>&nbsp;
 </p>
