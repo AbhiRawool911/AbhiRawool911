@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/EKsk4xtJu-qcCLu6v_GJEiJbWXakB9PzJp_snmXg4ak/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc.svg" alt="Tailwind CSS" width="44" height="39">
+    <img src="https://imgs.search.brave.com/oG3o98QjKAbPSLZPTOvPhupljLwbNmIQ42GfRq2TFXw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q1L1RhaWx3aW5k/X0NTU19Mb2dvLnN2/Zw" alt="Tailwind CSS" width="48" height="38">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" width="44" height="39">
